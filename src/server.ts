@@ -12,7 +12,6 @@ app.use(router)
 
 app.use((err: Error, req: Request, res:Response, next: NextFunction)=> {
     if(err instanceof Error) {
-        //Se for a instância do tipo error
         res.status(400).json({
             error: err.message
         })
