@@ -22,15 +22,15 @@ A API oferece as seguintes funcionalidades:
 
 ### Tecnologias Utilizadas
 
-* **TypeScript:** Linguagem de programação que adiciona tipagem estática ao JavaScript.
-* **PostgreSQL:** Banco de dados relacional.
-* **Express:** Framework web para Node.js.
-* **Prisma:** ORM para facilitar o acesso ao banco de dados.
-* **JWT (JSON Web Token):** Padrão para autenticação e autorização de usuários.
-* **bcryptjs:** Biblioteca para criptografia de senhas.
-* **cors:** Middleware para habilitar o CORS (Cross-Origin Resource Sharing).
-* **dotenv:** Biblioteca para carregar variáveis de ambiente de um arquivo .env.
-* **multer:** Middleware para lidar com uploads de arquivos.
+*   <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" width="20"/> **TypeScript:** Linguagem de programação que adiciona tipagem estática ao JavaScript.
+*   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20"/> **PostgreSQL:** Banco de dados relacional.
+*   <img src="https://expressjs.com/images/favicon.png" width="20"/> **Express:** Framework web para Node.js.
+*   <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="20"/> **Prisma:** ORM para facilitar o acesso ao banco de dados.
+*   <img src="https://jwt.io/img/pic_logo.svg" width="20"/> **JWT (JSON Web Token):** Padrão para autenticação e autorização de usuários.
+*   <img src="https://img.icons8.com/ios-filled/20/000000/password.png"/> **bcryptjs:** Biblioteca para criptografia de senhas.
+*   <img src="https://img.icons8.com/ios-filled/20/000000/globe.png"/> **cors:** Middleware para habilitar o CORS (Cross-Origin Resource Sharing).
+*   <img src="https://img.icons8.com/ios-filled/20/000000/settings.png"/> **dotenv:** Biblioteca para carregar variáveis de ambiente de um arquivo .env.
+*   <img src="https://img.icons8.com/ios-filled/20/000000/upload.png"/> **multer:** Middleware para lidar com uploads de arquivos.
 
 ### Estrutura do Projeto
 
