@@ -22,15 +22,15 @@ A API oferece as seguintes funcionalidades:
 
 ### Tecnologias Utilizadas
 
-*   ![TypeScript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png) **TypeScript:** Linguagem de programação que adiciona tipagem estática ao JavaScript.
-*   ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png) **PostgreSQL:** Banco de dados relacional.
-*   ![Express](https://expressjs.com/images/favicon.png) **Express:** Framework web para Node.js.
-*   ![Prisma](https://avatars.githubusercontent.com/u/17219288?s=200&v=4) **Prisma:** ORM para facilitar o acesso ao banco de dados.
-*   ![JWT](https://jwt.io/img/pic_logo.svg) **JWT (JSON Web Token):** Padrão para autenticação e autorização de usuários.
-*   ![bcryptjs](https://img.icons8.com/ios-filled/50/000000/password.png) **bcryptjs:** Biblioteca para criptografia de senhas.
-*   ![CORS](https://img.icons8.com/ios-filled/50/000000/globe.png) **cors:** Middleware para habilitar o CORS (Cross-Origin Resource Sharing).
-*   ![dotenv](https://img.icons8.com/ios-filled/50/000000/settings.png) **dotenv:** Biblioteca para carregar variáveis de ambiente de um arquivo .env.
-*   ![Multer](https://img.icons8.com/ios-filled/50/000000/upload.png) **multer:** Middleware para lidar com uploads de arquivos.
+* **TypeScript:** Linguagem de programação que adiciona tipagem estática ao JavaScript.
+* **PostgreSQL:** Banco de dados relacional.
+* **Express:** Framework web para Node.js.
+* **Prisma:** ORM para facilitar o acesso ao banco de dados.
+* **JWT (JSON Web Token):** Padrão para autenticação e autorização de usuários.
+* **bcryptjs:** Biblioteca para criptografia de senhas.
+* **cors:** Middleware para habilitar o CORS (Cross-Origin Resource Sharing).
+* **dotenv:** Biblioteca para carregar variáveis de ambiente de um arquivo .env.
+* **multer:** Middleware para lidar com uploads de arquivos.
 
 ### Estrutura do Projeto
 
